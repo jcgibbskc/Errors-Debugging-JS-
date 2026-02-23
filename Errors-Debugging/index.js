@@ -11,13 +11,14 @@ function calculateTotal(numbers) {
 
 function findMax(numbers) {
   let max = numbers[0]; // start by assuming the first number is the largest
-  for (let i = 1; i < numbers.length; i++) {
+  for (let i = 1; i < number.length; i++) {
     if (numbers[i] > max) {
       max = numbers[i]; // update max if a bigger number is found
     }
   }
-  return max;
 }
+  return max;
+
 const data1 = [1, 2, 3];
 const data2 = [4, 5, 6];
 
