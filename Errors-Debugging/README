@@ -1,0 +1,46 @@
+Your Tasks: 
+
+1. Fix the bug.
+
+
+2. Refactor if needed.
+
+
+3. Add a second function:
+
+
+calculateAverage
+
+
+filterPositive
+
+
+findMax
+
+
+4. Add basic error handling.
+
+
+5. Make a commit:
+
+
+fix: root cause - incorrect loop boundary caused undefined
+
+******************************************************
+
+Ways to practice skill with a partner:
+
+Create a function. Intentionally introduce a bug. Swap with a partner. Debug using the ritual.
+
+Require them to say:
+“Step 1: Reproduce.”
+
+
+“Step 2: Inspect.”
+
+
+“Hypothesis…”
+
+
+If they skip ask:
+ “Which step are we on?”
